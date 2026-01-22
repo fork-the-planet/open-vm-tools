@@ -1,3 +1,14 @@
+commit 04e3d6c3a6576a43924557e159fd58d306fcc1f8
+Author: Kruti Pendharkar <kp025370@broadcom.com>
+Date:   Wed Jan 21 22:26:56 2026 -0800
+
+    =================================================
+      open-vm-tools 13.0.10 released at this point.
+    =================================================
+    
+    Update of the ChangeLog with the final changes in preparation for
+    the open-vm-tools 13.0.10 release.
+
 commit 93aa0c0e123d69eb3c3485b7f916d1ac20222b06
 Author: Kruti Pendharkar <kp025370@broadcom.com>
 Date:   Wed Jan 21 22:18:12 2026 -0800
